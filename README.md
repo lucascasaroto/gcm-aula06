@@ -9,8 +9,9 @@ Ferramentdas de controle de versão:
 *CVS
 *Source Safe
 *Bazaar
+*Clear case
 *SVN
 *Mercurial
-*Clear case
 *Github
 *Visual Studio team Service
+
